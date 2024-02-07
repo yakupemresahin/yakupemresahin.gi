@@ -30,7 +30,7 @@ linkedin_username: yakup-emre-şahin-936892178
 orcid_username: 0009-0003-2096-734X
 
 # Additional icon links
-# additional_links:
+ additional_links:
  - title: itsgoingto.be
   icon: fas fa-globe
   url: https://www.itsgoingto.be
